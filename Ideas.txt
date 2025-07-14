@@ -1,0 +1,2 @@
+Anota aqui las ideas para este proyecto:
+- Entorno web interactivo para vizualisar todos los resultados
